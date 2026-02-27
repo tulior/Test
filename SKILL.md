@@ -1,3 +1,8 @@
+---
+name: python-skills-matrix
+description: Reference matrix outlining core and advanced Python proficiency areas, progression roadmap, and definition of Python-proficient engineering.
+---
+
 # Python Skills Matrix (Optimal Baseline)
 
 ## 1) Core Language Mastery
